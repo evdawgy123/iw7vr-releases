@@ -1,0 +1,51 @@
+IW7VR
+Copyright © 2026 Evdawgy321. All rights reserved.
+
+IW7VR is distributed free of charge. You may download, install and use it for
+personal, non-commercial purposes.
+
+You may not, without prior written permission from the copyright holder:
+
+  - redistribute, mirror, repackage or bundle IW7VR;
+  - sell IW7VR or charge for access to it, including behind a paywall,
+    subscription, or "early access";
+  - publish modified versions or derivative works.
+
+Permission is usually granted. If you want to build on IW7VR, fork it, port it
+to another game, or use parts of it in your own project, just ask — reach out on
+Discord (https://discord.gg/4bqRhZQ5VM) and I'll very likely say yes. This
+licence exists so I know who's building what, not to stop anyone.
+
+IW7VR requires a legitimate copy of Call of Duty: Infinite Warfare and ships no
+game assets.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+THIRD-PARTY COMPONENTS
+
+This licence applies to IW7VR's own code only.
+
+iw7-mod (https://github.com/auroramod/iw7-mod) is a separate work licensed under
+the GNU General Public License v3.0. IW7VR does not redistribute it. The IW7VR
+launcher downloads it from the official iw7-mod releases during installation.
+All rights in that client belong to its authors.
+
+The OpenXR loader and headers are distributed under the Apache License 2.0 by
+The Khronos Group.
+
+MinHook is distributed under the BSD 2-Clause License.
+
+Full texts of these licences are in NOTICES.txt in the release package.
+
+---
+
+Not affiliated with, endorsed by, or associated with Activision Publishing, Inc.
+or Infinity Ward. Call of Duty and Infinite Warfare are trademarks of their
+respective owners.
